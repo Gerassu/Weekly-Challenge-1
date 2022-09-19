@@ -1,6 +1,6 @@
 # Weekly-Challenge-1
 
-GameJam inspiredproject against @LilQuacky
+GameJam inspiredproject against [@LilQuacky](https://github.com/LilQuacky)
 
 Project #1
 
